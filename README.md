@@ -31,7 +31,7 @@ Here's a recap of your accomplishments:
 - You merged a pull request.
 - You made your first contribution! :tada:
 
-### What's next?
+### What's neext?
 
 If you'd like to make a profile README, use the quickstart instructions below or follow the instructions in the [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) article.
 
